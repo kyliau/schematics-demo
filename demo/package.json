@@ -1,0 +1,9 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:kyliau/schematics-demo.git",
+  "author": "Keen Yee Liau <kyliau@umich.edu>",
+  "license": "MIT",
+  "schematics": "./collection.json"
+}

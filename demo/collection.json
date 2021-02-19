@@ -1,0 +1,14 @@
+{
+  "schematics": {
+    "simple": {
+      "factory": "./main#simple",
+      "schema": "./schema.json",
+      "description": "Add a file to workspace"
+    },
+    "advanced": {
+      "factory": "./main#advanced",
+      "schema": "./schema.json",
+      "description": "Create files from templates"
+    }
+  }
+}
